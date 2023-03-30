@@ -31,5 +31,12 @@
 [![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Blog](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=Dracula)](https://codesandbox.io)
 
+### Novas tecnologias sendo estudadas
+
+<ul>
+  <li>Nuxt.js</li>
+  <li>VueX</li>
+</ul>
+
 Tentando ser cada vez melhor
 tentando postar um projeto todos os dias
