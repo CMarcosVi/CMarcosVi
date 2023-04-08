@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMarcosVi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcosVi&layout=compact)](https://github.com/CMarcosVi) 
 ### Tecnologias
 <div>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></a>
+  <a src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></a>
   [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
   [![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
   [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
