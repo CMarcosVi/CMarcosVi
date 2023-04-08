@@ -3,13 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMarcosVi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcosVi&layout=compact)](https://github.com/CMarcosVi) 
 ### Tecnologias
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="25px" height="25px"></img>
-  [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
-  [![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
-  [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
-  [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/CMarcosVi?tab=repositories)
-  [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/CMarcosVi?tab=repositories)
-  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25px" height="25px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25px" height="25px"></img>
   [![Blog](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
   [![Blog](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/CMarcosVi?tab=repositories)
   [![Blog](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/CMarcosVi?tab=repositories)
