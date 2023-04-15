@@ -36,7 +36,7 @@
 
 <ul>
   <li>Nuxt.js</li>
-  <li>VueX</li>
+  <li>Redux</li>
 </ul>
 
 Tentando ser cada vez melhor
