@@ -1,6 +1,5 @@
 ### Oi me chamo Marcos Vinicius👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CMarcosVi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcosVi&layout=compact)](https://github.com/CMarcosVi) 
 ### Tecnologias
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30px" height="30px"></img>
