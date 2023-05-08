@@ -37,6 +37,8 @@
 <ul>
   <li>Nuxt.js</li>
   <li>Redux</li>
+  <li>Python</li>
+  <li>SQL</li>
 </ul>
 
 Tentando ser cada vez melhor
