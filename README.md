@@ -9,9 +9,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="30px" height="30px"></img>
   Vuex
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" height="30px"></img>
   <img src="https://axios-http.com/assets/logo.svg" width="30px" height="30px"></img>
 </div>
