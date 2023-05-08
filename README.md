@@ -10,11 +10,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="30px" height="30px"></img>
-  Vuex
+  <img src="(https://user-images.githubusercontent.com/127824847/236930310-0d6e70b4-95ce-45d2-b08e-4cbe406dc5fa.png)" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" height="30px"></img>
   <img src="https://axios-http.com/assets/logo.svg" width="30px" height="30px"></img>
-</div>
+
 
 ### Demais Tecnologias
   ![Blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
