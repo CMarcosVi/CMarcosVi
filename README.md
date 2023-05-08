@@ -31,6 +31,7 @@
 ### Minhas Principais IDEs
 [![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Blog](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=Dracula)](https://codesandbox.io)
+[![Blog](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
 
 ### Novas tecnologias sendo estudadas
 
