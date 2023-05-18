@@ -33,6 +33,8 @@
 [![Blog](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=Dracula)](https://codesandbox.io)
 [![Blog](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcosVi&langs_count=10)](https://github.com/CMarcosVi/github-readme-stats)
 ### Novas tecnologias sendo estudadas
 
 <ul>
