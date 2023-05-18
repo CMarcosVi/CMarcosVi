@@ -2,18 +2,25 @@
 
 ### Tecnologias
 <div>
+  <h6>Linguagens</h6>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px" height="30px"></img>
+  
+  <h6>Frameworks<h6>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30px" height="30px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30px" height="30px"></img>
+  <img src="https://user-images.githubusercontent.com/127824847/236930310-0d6e70b4-95ce-45d2-b08e-4cbe406dc5fa.png" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="30px" height="30px"></img>
   <img src="https://axios-http.com/assets/logo.svg" width="30px" height="30px"></img>
-  <img src="https://user-images.githubusercontent.com/127824847/236930310-0d6e70b4-95ce-45d2-b08e-4cbe406dc5fa.png" width="30px" height="30px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" height="30px"></img>
+  
+  
+  
 
 
 ### Demais Tecnologias
