@@ -45,9 +45,7 @@
 ### Novas tecnologias sendo estudadas
 
 <ul>
-  <li>Nuxt.js</li>
   <li>Redux</li>
-  <li>Python</li>
   <li>SQL</li>
 </ul>
 
