@@ -8,6 +8,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px" height="30px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30px" height="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30px" height="30px" />
   
   <h6>Frameworks<h6>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30px" height="30px"></img>
@@ -19,7 +21,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="30px" height="30px"></img>
   <img src="https://axios-http.com/assets/logo.svg" width="30px" height="30px"></img>
   
-  
+  <h6>Aprendendo</h6>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30px" height="30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30px" height="30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  width="30px" height="30px"/>
   
 
 
@@ -42,12 +48,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcosVi&langs_count=10)](https://github.com/CMarcosVi/github-readme-stats)
-### Novas tecnologias sendo estudadas
-
-<ul>
-  <li>Redux</li>
-  <li>SQL</li>
-</ul>
 
 Tentando ser cada vez melhor
 tentando postar um projeto todos os dias
