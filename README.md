@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30px" height="30px" />
   
   <h6>Frameworks<h6>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px" height="30px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" height="30px"></img>
@@ -25,7 +26,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30px" height="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  width="30px" height="30px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px" height="30px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="30px" height="30px" />
+
   
 
 
