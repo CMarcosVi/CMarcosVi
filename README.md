@@ -24,9 +24,6 @@
   <img src="https://axios-http.com/assets/logo.svg" width="30px" height="30px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="30px" height="30px" />
   
-  <h6>Aprendendo</h6>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30px" height="30px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30px" height="30px"/>
 
   
 
